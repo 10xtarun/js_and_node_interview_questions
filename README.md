@@ -53,3 +53,9 @@
 [Reference](https://medium.com/@vikramgyawali57/7-best-approach-of-protecting-routes-in-node-js-every-senior-engineer-suggests-fc32b7777827)
 
 ---
+
+> What are closures in JS?
+
+[Practice file: 6.closures.js](./6.closures.js)
+
+[Reference](https://www.freecodecamp.org/news/lets-learn-javascript-closures-66feb44f6a44/)
