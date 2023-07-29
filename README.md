@@ -3,6 +3,7 @@
 ## This contains common interview questions asked in a JavsScript or NodeJS interviews
 
 > What is event loop?
+
 > What are callbacks?
 
 [Reference](https://www.javascripttutorial.net/javascript-event-loop/)
@@ -22,3 +23,12 @@
 [Reference](https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/)
 
 ---
+
+> What is asynchrounous in JS?
+
+> What are callbacks, promise, async-await in JS?
+
+[Reference](https://www.freecodecamp.org/news/asynchronous-javascript-explained/)
+
+---
+
