@@ -34,7 +34,7 @@ app.post("/api/login", (req, res) => {
     try {
         const { email, password } = req.body.user
 
-        const user = USER_DB.find(user => user.password === password)
+        const user = USER_DB.find(user => user.email === email)
 
         if (user) {
             const token = jwt.sign({ email }, CONSTANTS.SECRET, { expiresIn: "5m" })
